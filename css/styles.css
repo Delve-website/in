@@ -1,0 +1,59 @@
+body{
+  text-align: center;}
+#title{
+  background-color: #82acff;
+}
+#mid-page{
+  background-color: #ff7e67;
+}
+#footer{
+  background-color: #0f3057;
+  padding-top: 20px;
+}
+#logo-image{
+  width: 10%;
+  mrgin-top : 30px;
+}
+.navbar-brand{
+ width:7%;
+}
+
+}
+.top-images{
+  width:10%; 
+
+}
+.navbar-nav{
+  margin:auto;
+  font-size: 110%;
+}
+
+.Team{
+  margin: auto;
+}
+.quote{
+  font-family: 'Damion', cursive;
+  color: white;
+
+}
+.alert{}
+.footer-link{
+  color:#EAF6F6 ;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  padding-bottom: 30px;
+}
+.copyright{
+  color: #EAF6F6;
+}
+a:hover {
+  color:#ff7e67;
+  text-decoration: none;
+}
+.social-media {
+color :#EAF6F6;
+}
+.social-media:hover{
+  color :#ff7e67;
+}
